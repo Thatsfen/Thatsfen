@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thatsfen
-- 👀 I’m interested in software development as well UI and UX
+- 👀 I’m interested in software development as well as UI and UX
 - 🌱 I’m currently learning wordpress 
 - 💞️ I’m looking for a collective of like minded individuals to work and learn with 
 - 📫 you can reach me at godsdrex2001@gmail.com or on ig as th_at_fen
