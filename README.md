@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Thatsfen
-- 👀 I’m interested in software development as well as UI and UX
-- 🌱 I’m currently learning wordpress 
+- 👀 I’m a UI and UX developer with a solid foundation in code
+- 🌱 I’m currently learning 
 - 💞️ I’m looking for a collective of like minded individuals to work and learn with 
-- 📫 you can reach me at godsdrex2001@gmail.com or on ig as th_at_fen
+- 📫 you can reach me at godsdrex2001@gmail.com or on X as @TheRuneDev
 - 😄 im a dude 💪 😎 
-- ⚡ side note: i love music 🎶, coffee ☕, puzzles 😍, books 📚
+- ⚡ side note: i love music 🎶, coffee ☕, puzzles 😍, Fantasy books 📚
 - 
 
 <!---
